@@ -37,8 +37,8 @@ python-socketio==5.10.0
 pytube==15.0.0
 pytz==2023.3.post1
 redis==4.6.0
-reflex==0.3.7
-reflex-hosting-cli==0.1.4
+reflex
+reflex-hosting-cli
 requests==2.31.0
 resend==0.6.0
 rich==13.7.0
